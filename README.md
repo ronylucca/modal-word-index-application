@@ -1,2 +1,3 @@
 # modal-word-index-application
-Modal - Rony de Lucca - C++ script 
+Modal - Rony de Lucca
+linguagem: C++  

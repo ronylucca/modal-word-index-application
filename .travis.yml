@@ -64,4 +64,3 @@ script:
   - mkdir build
   - cd build
   - ${DEPS_DIR}/cmake/bin/cmake .. && make
-Comment on gist

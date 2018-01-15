@@ -59,7 +59,7 @@ install:
   # Go to the Root directory  
   - cd ..
 
-# Build steps
+# Build
 script:
   - mkdir build
   - cd build
